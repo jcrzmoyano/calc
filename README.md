@@ -1,3 +1,8 @@
+# INTEGRANTES
+
+* **Moyano, Juan Cruz**
+* **Sosa Herrera, Josué** 
+
 # Calc
 
 Calculadora con funciones simples.
