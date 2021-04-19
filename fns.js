@@ -25,7 +25,7 @@ function div(a, b){
     return resu 
 }
 
-function pow(a, b) {
+function pow(a, b){
     return a**b;
 }
 
