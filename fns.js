@@ -12,9 +12,13 @@ function sum(a, b) {
 
 // Completar estas funciones
 
-function res(a, b) {}
+function res(a, b) {
+    return a - b;
+}
 
-function mul(a, b) {}
+function mul(a, b) {
+    return a * b;
+}
 
 function div(a, b){
     b!=0 ? (resu = a/b) : (resu="Error: div by 0")
