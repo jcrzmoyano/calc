@@ -2,6 +2,7 @@
 
 * **Moyano, Juan Cruz**
 * **Sosa Herrera, Josué** 
+* **Molina, Diego**
 
 # Calc
 
